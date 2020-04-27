@@ -1,0 +1,26 @@
+body {
+  background-color: #f6f6e9;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #278ea5;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 350px;
+}
+
+h1 {color: #194769;}
+h2 {color: #f2855e}
+h3 {color: #278ea5}
+
+.dots{
+  border-color: #f2855e;
+}
+.container{
+  margin: auto;
+}
